@@ -36,6 +36,12 @@
 # Art Assets
 
 
+* Cloud textures ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))
+
+  By WickedInsignia @ 2022
+
+  https://opengameart.org/content/clouds-with-transparency
+
 
 * Godette ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 
