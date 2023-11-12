@@ -59,12 +59,17 @@
   https://bitbucket.org/arlez80/fire/src/master/
 
 
+* Smoke and fire images ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))
+
+  https://www.kenney.nl/assets/particle-pack
+
+
 * Dirt Texture ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))
 
   https://ambientcg.com/view?id=Ground033
 
-# Sound Effects
 
+# Sound Effects
 
 
 * Popcorn sound effect ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
