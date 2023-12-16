@@ -35,6 +35,9 @@
 
 # Art Assets
 
+* Rooster ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  https://sketchfab.com/3d-models/handpainted-rooster-02ffc550ed644f849d47d02d4b13a960
+
 
 * Cloud textures ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))
 
