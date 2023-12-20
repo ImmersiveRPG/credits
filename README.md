@@ -35,7 +35,16 @@
 
 # Art Assets
 
+* Cockroach ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
+  By BA_VR (https://sketchfab.com/BA_VR)
+
+  https://sketchfab.com/3d-models/project-playtime-cockroach-fc70585b74dd405399cc5105e6ea7491
+
 * Rooster ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
+  By Rukh3D (https://sketchfab.com/rukh3d)
+
   https://sketchfab.com/3d-models/handpainted-rooster-02ffc550ed644f849d47d02d4b13a960
 
 
