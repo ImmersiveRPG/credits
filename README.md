@@ -90,6 +90,16 @@
 # Sound Effects
 
 
+* Rooster, Crowing, A.wav ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+  
+  https://freesound.org/people/InspectorJ/sounds/384188/
+
+
+* gailis.wav ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
+  
+  https://freesound.org/people/Sam_Kaleja/sounds/268675/
+
+
 * Popcorn sound effect ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
 
   https://freesound.org/people/Sunejackie/sounds/542398/
