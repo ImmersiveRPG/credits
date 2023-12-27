@@ -35,6 +35,12 @@
 
 # Art Assets
 
+* VHS and CRT monitor effect Shader ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))
+
+  By pend00 (https://godotshaders.com/author/pend00/) Copyright @ 2021
+
+  https://godotshaders.com/shader/VHS-and-CRT-monitor-effect/
+
 * Cockroach ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 
   By BA_VR (https://sketchfab.com/BA_VR)
