@@ -19,6 +19,11 @@
   https://github.com/coppolaemilio/dialogic
 
 
+* Mixamo Y-Bot ([Adobe General Terms of Use](https://www.adobe.com/legal/terms.html))
+
+  https://www.mixamo.com
+
+
 * NPC Mannequiny (MIT & [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 
   GDQuest and contributors (https://www.gdquest.com/)
