@@ -9,6 +9,9 @@
 
 # Add Ons
 
+* Godot Jolt (MIT Licensed)
+
+  https://github.com/godot-jolt/godot-jolt
 
 
 * Dialogic (MIT)
