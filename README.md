@@ -49,6 +49,12 @@
 
   https://godotshaders.com/shader/VHS-and-CRT-monitor-effect/
 
+* RCA Indian Head Test Pattern
+
+  Public Domain
+
+  https://commons.wikimedia.org/wiki/File:RCA_Indian_Head_Test_Pattern.svg
+
 * Cockroach ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 
   By BA_VR (https://sketchfab.com/BA_VR)
