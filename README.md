@@ -20,18 +20,6 @@
   https://github.com/coppolaemilio/dialogic
 
 
-* Mixamo Y-Bot ([Adobe General Terms of Use](https://www.adobe.com/legal/terms.html))
-
-  https://www.mixamo.com
-
-
-* NPC Mannequiny (MIT & [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
-
-  GDQuest and contributors (https://www.gdquest.com/)
-
-  https://github.com/GDQuest/godot-3d-mannequin
-
-
 * DecalCo (MIT Licensed)
 
   https://github.com/Master-J/DecalCo
@@ -53,6 +41,32 @@
   https://sketchfab.com/3d-models/cart-basket-ffcd7806d99b466ba74b0c8c109e0d98
 
 
+* Cockroach ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
+  By BA_VR (https://sketchfab.com/BA_VR)
+
+  https://sketchfab.com/3d-models/project-playtime-cockroach-fc70585b74dd405399cc5105e6ea7491
+
+
+* Rooster ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
+  By Rukh3D (https://sketchfab.com/rukh3d)
+
+  https://sketchfab.com/3d-models/handpainted-rooster-02ffc550ed644f849d47d02d4b13a960
+
+
+* Mixamo Y-Bot ([Adobe General Terms of Use](https://www.adobe.com/legal/terms.html))
+
+  https://www.mixamo.com
+
+
+* NPC Mannequiny (MIT & [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
+  GDQuest and contributors (https://www.gdquest.com/)
+
+  https://github.com/GDQuest/godot-3d-mannequin
+
+
 
 # Art Assets
 
@@ -69,20 +83,6 @@
   Public Domain
 
   https://commons.wikimedia.org/wiki/File:RCA_Indian_Head_Test_Pattern.svg
-
-
-* Cockroach ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
-
-  By BA_VR (https://sketchfab.com/BA_VR)
-
-  https://sketchfab.com/3d-models/project-playtime-cockroach-fc70585b74dd405399cc5105e6ea7491
-
-
-* Rooster ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
-
-  By Rukh3D (https://sketchfab.com/rukh3d)
-
-  https://sketchfab.com/3d-models/handpainted-rooster-02ffc550ed644f849d47d02d4b13a960
 
 
 * Cloud textures ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))
