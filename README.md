@@ -9,6 +9,7 @@
 
 # Add Ons
 
+
 * Godot Jolt (MIT Licensed)
 
   https://github.com/godot-jolt/godot-jolt
@@ -41,7 +42,9 @@
   https://github.com/Zylann/godot_heightmap_plugin
 
 
+
 # Art Assets
+
 
 * VHS and CRT monitor effect Shader ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))
 
@@ -49,17 +52,20 @@
 
   https://godotshaders.com/shader/VHS-and-CRT-monitor-effect/
 
+
 * RCA Indian Head Test Pattern
 
   Public Domain
 
   https://commons.wikimedia.org/wiki/File:RCA_Indian_Head_Test_Pattern.svg
 
+
 * Cockroach ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 
   By BA_VR (https://sketchfab.com/BA_VR)
 
   https://sketchfab.com/3d-models/project-playtime-cockroach-fc70585b74dd405399cc5105e6ea7491
+
 
 * Rooster ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 
@@ -99,6 +105,7 @@
 * Dirt Texture ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))
 
   https://ambientcg.com/view?id=Ground033
+
 
 
 # Sound Effects
@@ -143,13 +150,14 @@
 
   https://freesound.org/people/patchen/sounds/17852/
 
+
 * FART SOUND 94 ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
   
   https://freesound.org/people/frenkfurth/sounds/663628/
 
 
-# Fonts
 
+# Fonts
 
 
 * Courier Prime ([SIL OFL 1.1](https://github.com/quoteunquoteapps/CourierPrime/blob/master/OFL.txt))
