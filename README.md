@@ -34,6 +34,12 @@
 
 # Models
 
+* American Muscle '71 - Low poly model ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
+  By Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky)
+
+  https://sketchfab.com/3d-models/american-muscle-71-low-poly-model-955edc733c6d44fabc0ad7c246a15896
+
 * Cart Basket ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 
   By Francesco Coldesina (https://sketchfab.com/topfrank2013) Copyright @ 2017
